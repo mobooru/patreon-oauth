@@ -1,0 +1,26 @@
+{
+  "name": "patreon-oauth",
+  "version": "1.0.0",
+  "description": "A wrapper around the patreon oauth api.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mobooru/patreon-oauth.git"
+  },
+  "keywords": [
+    "patreon",
+    "oauth"
+  ],
+  "author": "RekkyRek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mobooru/patreon-oauth/issues"
+  },
+  "homepage": "https://github.com/mobooru/patreon-oauth#readme",
+  "dependencies": {
+    "patreon": "^0.4.1"
+  }
+}
